@@ -1,6 +1,7 @@
-## Hi there 👋
+######   HOLA CHAVALES
 
-<!--
+<!--![Texto alternativo]<img width="1254" height="1254" alt="GOKU UPA BASE" src="https://github.com/user-attachments/assets/59b3c9b4-b5b2-4916-a4e8-c784b9cd2b65" />
+(
 **up250099esan/up250099esan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
